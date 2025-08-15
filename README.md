@@ -1,17 +1,24 @@
 Power BI Superstore Sales Dashboard 📊
+
 A comprehensive Power BI dashboard analyzing superstore sales data with interactive visualizations and key business insights.
 
 🎯 Overview
+
 This project demonstrates advanced Power BI skills through the creation of an interactive sales dashboard using sample superstore data. The dashboard provides actionable insights into sales performance across different regions, categories, and time periods.
 
+
 ✨ Features
+
 Interactive Visualizations: Line charts, bar charts, and donut charts
 Dynamic Filtering: Region and category slicers for real-time data filtering
 Time Intelligence: Month-year trend analysis
 Performance Metrics: Sales, profit, and quantity analysis
 Regional Comparison: Multi-region performance tracking
 Category Analysis: Product category distribution and performance
+
+
 📊 Dataset
+
 The dashboard uses the Sample Superstore Dataset containing:
 
 9,994 rows of transactional data
